@@ -44,7 +44,7 @@ function Home() {
     <>
      <Navbar />
      <Carousel />
-      <Heading mt={4} ml={5}>Best Popular Movies</Heading>
+      <Heading mt={4} ml={5} fontSize="15px">Best Popular Movies</Heading>
       {loading ? <Loader /> :
         <Box w={'90%'} display="block" m={'auto'} mt={5} >
           <Grid  templateColumns='repeat(4, 1fr)' gap={6} >

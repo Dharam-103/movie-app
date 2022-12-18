@@ -23,7 +23,7 @@ import { useNavigate } from 'react-router-dom';
     const navigate=useNavigate();
     const[email,setEmail]=useState("");
     const[password,setPassword]=useState('');
-    console.log(email,password);
+
 
     const handleClick=()=>{
         if(userData.email===email && userData.password){

@@ -21,7 +21,6 @@ import {
 import { SearchContext } from '../Context/SearchContextProvider';
   const links=[
       {path:"/",text:"Home"},
-      {path:"/movies",text:"Movies"},
       {path:"/tvshows",text:"TV Shows"},
       {path:"/trending",text:"Trending"},
       {path:"/pricing",text:"Pricing"},
