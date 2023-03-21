@@ -13,6 +13,8 @@ CSS
 Javascript
 React
 Chakra UI
+Api
+Axios
 
 Features
 ---------
