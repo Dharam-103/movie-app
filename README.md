@@ -3,3 +3,5 @@
 Movie-App-Zee5
 
 Zee5 is one of the most oreferred OTT Platforms today for Streaming shows and movies
+
+<h1>Tech Stack</h1>
