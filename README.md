@@ -8,19 +8,24 @@ An individual project executed in 5 days...
 
 <h1>Tech Stack</h1>
 -------------------
-HTML
-CSS
-Javascript
-React
-Chakra UI
-Api
-Axios
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>Chakra UI</li>
+  <li>API</li>
+  <li>Axios</li>
+</ul>
 
 Features
 ---------
-SignUp and Login functionality
-Search Functionality
-Watch the trailer
+<ul>
+  <li>SignUp and Login functionality</li>
+  <li>Search Functionality</li>
+  <li>Watch the trailer</li>
+</ul>
+
 
 Home Page
 ----------![Screenshot (10)](https://user-images.githubusercontent.com/105914238/226705213-fae84c2e-8e26-41e8-9b88-bf918344693c.png)
